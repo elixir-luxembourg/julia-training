@@ -20,7 +20,7 @@ You can install the Jupyter support as follows:
 
 1. Start Julia, usually by typing `julia` into the console. If you are greeted by a colorful logo and a green prompt saying `julia>`, it worked out.
 2. In Julia interpreter, switch to packaging mode by pressing `]`. The prompt should change color to blue and display versioning information, likely as `(@v1.5) pkg>`.
-3. To the packaging prompt, type `add IJulia`. Very likely, you will see some green messages about new packages and IJulia will get installed without problems. If you encounter problems, let us know (ideally send us the red error messages), we will try to help you .
+3. To the packaging prompt, type `add IJulia`. Very likely, you will see some green messages about new packages and IJulia will get installed without problems. If you encounter problems, let us know (ideally send us the red error messages), we will try to help you.
 
 ## Course materials
 
