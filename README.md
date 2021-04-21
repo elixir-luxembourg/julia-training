@@ -3,6 +3,8 @@
 
 This repository collects the supporting material for the Julia course.
 
+<img src="media/r3school.svg" alt="R3 school logo" height="64px">   <img src="media/elixir.svg" alt="ELIXIR logo" height="64px">   <img src="media/lih.svg" alt="LIH logo" height="64px">   <img src="media/lcsb.svg" alt="LCSB logo" height="64px">   <img src="media/unilu.svg" alt="Uni.lu logo" height="64px">
+
 ## What should I prepare for the course?
 
 If you want to follow the examples, try the stuff interactively and possibly get feedback to your code, you want to install Julia in advance.
