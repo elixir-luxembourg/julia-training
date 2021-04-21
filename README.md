@@ -24,7 +24,7 @@ You can install the Jupyter support as follows:
 ## Course materials
 
 - [Slides for session 1 (basics)](TODO)
-- [Data for session 2](session2/) (including the Jupyter notebook and sample files), [pre-rendered slides here](session2/tut01.slides.html)
+- [Data for session 2](session2/) (including the Jupyter notebook and sample files), [pre-rendered slides here](session2/tut01.slides.html) (download the raw HTML and open it in a browser)
 - [Slides for session 3 (distributed computing)](TODO)
 
 We will show many small code examples in the Julia interpreter; command history will be published after the course.
