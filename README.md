@@ -9,8 +9,7 @@ If you want to follow the examples, try the stuff interactively and possibly get
 
 - For session 1, you will need just a bare Julia installation (see below).
 - For session 2, install the support Jupyter notebooks (also see below).
-- For session 3, we will work with distributed computation. If you have a remote computer (e.g. a server) available where you can SSH and run the processes there, you may want to prepare a working SSH connection to it, and install Julia there as well.
-
+- For session 3, we will work with distributed computation. If you have a remote computer (e.g. a server) available where you can SSH and run the processes there, you may want to prepare a working SSH connection to it, and install Julia there as well. If you do not have a server, do not worry -- you can do the very same things locally, using multiple Julia processes running on a single machine.
 
 ## Installing the necessary tools
 
