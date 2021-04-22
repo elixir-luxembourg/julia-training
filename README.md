@@ -1,5 +1,7 @@
 
-# R³school/ELIXIR training: High performance scientific computing using Julia
+# R³ school/ELIXIR training
+
+# High performance scientific computing using Julia
 
 This repository collects the supporting material for the Julia course.
 
